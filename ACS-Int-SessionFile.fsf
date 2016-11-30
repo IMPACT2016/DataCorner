@@ -1,0 +1,327 @@
+<Session>
+<DataBasket>
+<TotalVariableCount> 7 </TotalVariableCount>
+<Version> 2 </Version>
+<Variable>
+<VarId>3183833b1b8d085a2394dae2cabb0d97</VarId>
+<Idnum> 551889 </Idnum>
+<Type> 1 </Type>
+<VarMnemonic> HISP </VarMnemonic>
+<VarDescription> Hispanic recode </VarDescription>
+<Ranges>
+<RangeCount> 24 </RangeCount>
+<Range>
+<ValDescription> Not Spanish/Hispanic/Latino </ValDescription>
+<Value> 01 </Value>
+<Selected> true </Selected>
+</Range>
+<Range>
+<ValDescription> Mexican </ValDescription>
+<Value> 02 </Value>
+<Selected> true </Selected>
+</Range>
+<Range>
+<ValDescription> Puerto Rican </ValDescription>
+<Value> 03 </Value>
+<Selected> true </Selected>
+</Range>
+<Range>
+<ValDescription> Cuban </ValDescription>
+<Value> 04 </Value>
+<Selected> true </Selected>
+</Range>
+<Range>
+<ValDescription> Domincan </ValDescription>
+<Value> 05 </Value>
+<Selected> true </Selected>
+</Range>
+<Range>
+<ValDescription> Costa Rican </ValDescription>
+<Value> 06 </Value>
+<Selected> true </Selected>
+</Range>
+<Range>
+<ValDescription> Guatemalan </ValDescription>
+<Value> 07 </Value>
+<Selected> true </Selected>
+</Range>
+<Range>
+<ValDescription> Honduran </ValDescription>
+<Value> 08 </Value>
+<Selected> true </Selected>
+</Range>
+<Range>
+<ValDescription> Nicaraguan </ValDescription>
+<Value> 09 </Value>
+<Selected> true </Selected>
+</Range>
+<Range>
+<ValDescription> Panamanian </ValDescription>
+<Value> 10 </Value>
+<Selected> true </Selected>
+</Range>
+<Range>
+<ValDescription> Salvadoran </ValDescription>
+<Value> 11 </Value>
+<Selected> true </Selected>
+</Range>
+<Range>
+<ValDescription> Other Central American </ValDescription>
+<Value> 12 </Value>
+<Selected> true </Selected>
+</Range>
+<Range>
+<ValDescription> Argentinean </ValDescription>
+<Value> 13 </Value>
+<Selected> true </Selected>
+</Range>
+<Range>
+<ValDescription> Bolivian </ValDescription>
+<Value> 14 </Value>
+<Selected> true </Selected>
+</Range>
+<Range>
+<ValDescription> Chilean </ValDescription>
+<Value> 15 </Value>
+<Selected> true </Selected>
+</Range>
+<Range>
+<ValDescription> Colombian </ValDescription>
+<Value> 16 </Value>
+<Selected> true </Selected>
+</Range>
+<Range>
+<ValDescription> Ecuadorian </ValDescription>
+<Value> 17 </Value>
+<Selected> true </Selected>
+</Range>
+<Range>
+<ValDescription> Paraguayan </ValDescription>
+<Value> 18 </Value>
+<Selected> true </Selected>
+</Range>
+<Range>
+<ValDescription> Peruvian </ValDescription>
+<Value> 19 </Value>
+<Selected> true </Selected>
+</Range>
+<Range>
+<ValDescription> Uruguayan </ValDescription>
+<Value> 20 </Value>
+<Selected> true </Selected>
+</Range>
+<Range>
+<ValDescription> Venezuelan </ValDescription>
+<Value> 21 </Value>
+<Selected> true </Selected>
+</Range>
+<Range>
+<ValDescription> Other South American </ValDescription>
+<Value> 22 </Value>
+<Selected> true </Selected>
+</Range>
+<Range>
+<ValDescription> Spaniard </ValDescription>
+<Value> 23 </Value>
+<Selected> true </Selected>
+</Range>
+<Range>
+<ValDescription> All other Spanish/Hispanic/Latino </ValDescription>
+<Value> 24 </Value>
+<Selected> true </Selected>
+</Range>
+</Ranges>
+</Variable>
+<Variable>
+<VarId>5e148ccff3abf3f4b54b050e4ba8c42d</VarId>
+<Idnum> 551913 </Idnum>
+<Type> 1 </Type>
+<VarMnemonic> POVPIP </VarMnemonic>
+<VarDescription> Income-to-poverty ratio recode </VarDescription>
+<Ranges>
+<RangeCount> 3 </RangeCount>
+<Range>
+<ValDescription> N/A </ValDescription>
+<Value> -1 </Value>
+<Selected> false </Selected>
+</Range>
+<Range>
+<ValDescription> Below 501 percent </ValDescription>
+<OrigMinVal> 000 </OrigMinVal>
+<OrigMaxVal> 500 </OrigMaxVal>
+<Selected> true </Selected>
+</Range>
+<Range>
+<ValDescription> 501 percent or more </ValDescription>
+<Value> 501 </Value>
+<Selected> true </Selected>
+</Range>
+</Ranges>
+</Variable>
+<Variable>
+<VarId>c5f1fdc9efe76af9f4dd9a4c40b14334</VarId>
+<Idnum> 735426 </Idnum>
+<Type> 1 </Type>
+<VarMnemonic> RAC1P </VarMnemonic>
+<VarDescription> Recoded detailed race code </VarDescription>
+<Ranges>
+<RangeCount> 9 </RangeCount>
+<Range>
+<ValDescription> White alone </ValDescription>
+<Value> 1 </Value>
+<Selected> true </Selected>
+</Range>
+<Range>
+<ValDescription> Black or African American alone </ValDescription>
+<Value> 2 </Value>
+<Selected> true </Selected>
+</Range>
+<Range>
+<ValDescription> American Indian alone </ValDescription>
+<Value> 3 </Value>
+<Selected> true </Selected>
+</Range>
+<Range>
+<ValDescription> Alaska Native alone </ValDescription>
+<Value> 4 </Value>
+<Selected> true </Selected>
+</Range>
+<Range>
+<ValDescription> American Indian and Alaska Native tribes specified; or American Indian or Alaska Native, not specified and no other races </ValDescription>
+<Value> 5 </Value>
+<Selected> true </Selected>
+</Range>
+<Range>
+<ValDescription> Asian alone </ValDescription>
+<Value> 6 </Value>
+<Selected> true </Selected>
+</Range>
+<Range>
+<ValDescription> Native Hawaiian and Other Pacific Islander alone </ValDescription>
+<Value> 7 </Value>
+<Selected> true </Selected>
+</Range>
+<Range>
+<ValDescription> Some other race alone </ValDescription>
+<Value> 8 </Value>
+<Selected> true </Selected>
+</Range>
+<Range>
+<ValDescription> Two or More Races </ValDescription>
+<Value> 9 </Value>
+<Selected> true </Selected>
+</Range>
+</Ranges>
+</Variable>
+<ConcatenatedVariable>
+<Variable>
+<VarId>7df34e291ddf15228cc22f9967e21e9e</VarId>
+<Idnum> -101 </Idnum>
+<Type> 1 </Type>
+<VarMnemonic> GEOG-101 </VarMnemonic>
+<VarDescription> FIPS State Code </VarDescription>
+<CVLabel> FIPS State Code </CVLabel>
+<Componentid> 1159 </Componentid>
+<Periodid> 3377 </Periodid>
+<VarComparisonid> 1 </VarComparisonid>
+</Variable>
+<Definition>
+<DefSize> 1 </DefSize>
+<CVID> 551917 </CVID>
+<CVMnemonic> ST </CVMnemonic>
+<CVGeoReferenceDate> 2006-01-01 </CVGeoReferenceDate>
+<CVValues>
+<CVNumValues> 1 </CVNumValues>
+<CVValue> 40 </CVValue>
+<CVNumCodes> 1 </CVNumCodes>
+<CVCode> 42 </CVCode>
+<CVValLabel> Pennsylvania </CVValLabel>
+</CVValues>
+</Definition>
+<CVCodeset> 1 </CVCodeset>
+<CVHierarchy> 87 </CVHierarchy>
+<CVLevel> 1 </CVLevel>
+</ConcatenatedVariable>
+<RecodeItem>
+<RecodeIdnum> -1 </RecodeIdnum>
+<RecodeMnemonic> RECODE1 </RecodeMnemonic>
+<RecodeLabel> HISP-Recode </RecodeLabel>
+<RecodeUserDefined>
+<Variable>
+<VarId>3183833b1b8d085a2394dae2cabb0d97</VarId>
+<Idnum> 551889 </Idnum>
+<Type> 1 </Type>
+<VarMnemonic> HISP </VarMnemonic>
+<VarDescription> Hispanic recode </VarDescription>
+</Variable>
+<CodingScheme>
+<Value> 1 </Value>
+<Label> Not Hispanic </Label>
+<Description> {01} </Description>
+<Value> 2 </Value>
+<Label> Hispanic </Label>
+<Description> {02 ,03 ,04 ,05 ,06 ,07 ,08 ,09 ,10 ,11 ,12 ,13 ,14 ,15 ,16 ,17 ,18 ,19 ,20 ,21 ,22 ,23 ,24} </Description>
+</CodingScheme>
+</RecodeItem>
+<RecodeItem>
+<RecodeIdnum> -2 </RecodeIdnum>
+<RecodeMnemonic> RECODE2 </RecodeMnemonic>
+<RecodeLabel> RAC1P-Recode </RecodeLabel>
+<RecodeUserDefined>
+<Variable>
+<VarId>c5f1fdc9efe76af9f4dd9a4c40b14334</VarId>
+<Idnum> 735426 </Idnum>
+<Type> 1 </Type>
+<VarMnemonic> RAC1P </VarMnemonic>
+<VarDescription> Recoded detailed race code </VarDescription>
+</Variable>
+<CodingScheme>
+<Value> 1 </Value>
+<Label> White alone </Label>
+<Description> {1} </Description>
+<Value> 2 </Value>
+<Label> Black alone </Label>
+<Description> {2} </Description>
+<Value> 3 </Value>
+<Label> Asian alone </Label>
+<Description> {6} </Description>
+<Value> 4 </Value>
+<Label> Other </Label>
+<Description> {3 ,4 ,5 ,7 ,8 ,9} </Description>
+</CodingScheme>
+</RecodeItem>
+<RecodeItem>
+<RecodeIdnum> -3 </RecodeIdnum>
+<RecodeMnemonic> RECODE3 </RecodeMnemonic>
+<RecodeLabel> POVPIP-Recode </RecodeLabel>
+<RecodeUserDefined>
+<Variable>
+<VarId>5e148ccff3abf3f4b54b050e4ba8c42d</VarId>
+<Idnum> 551913 </Idnum>
+<Type> 1 </Type>
+<VarMnemonic> POVPIP </VarMnemonic>
+<VarDescription> Income-to-poverty ratio recode </VarDescription>
+</Variable>
+<CodingScheme>
+<Value> 1 </Value>
+<Label> Below Poverty </Label>
+<Description> {Between 0 and 99} </Description>
+<Value> 2 </Value>
+<Label> Above Poverty </Label>
+<Description> {501 ,Between 100 and 500 } </Description>
+</CodingScheme>
+</RecodeItem>
+</DataBasket>
+<TreeInfo>
+<NumNodes> 1 </NumNodes>
+<TreeNode>
+<Survey> 16 </Survey>
+<Subsrv> 0 </Subsrv>
+<Component> 1159 </Component>
+<Instance> 2015 </Instance>
+<Longitudinal> false </Longitudinal>
+<VirtualIndicator> 0 </VirtualIndicator>
+<NodeDescription> ACS//Public Use Microdata Sample/2015 </NodeDescription>
+</TreeNode>
+</TreeInfo>
+</Session>

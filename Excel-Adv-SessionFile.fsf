@@ -1,0 +1,1958 @@
+<Session>
+<DataBasket>
+<TotalVariableCount> 106 </TotalVariableCount>
+<Version> 2 </Version>
+<Variable>
+<VarId>3183833b1b8d085a2394dae2cabb0d97</VarId>
+<Idnum> 551889 </Idnum>
+<Type> 1 </Type>
+<VarMnemonic> HISP </VarMnemonic>
+<VarDescription> Hispanic recode </VarDescription>
+<Ranges>
+<RangeCount> 24 </RangeCount>
+<Range>
+<ValDescription> Not Spanish/Hispanic/Latino </ValDescription>
+<Value> 01 </Value>
+<Selected> true </Selected>
+</Range>
+<Range>
+<ValDescription> Mexican </ValDescription>
+<Value> 02 </Value>
+<Selected> true </Selected>
+</Range>
+<Range>
+<ValDescription> Puerto Rican </ValDescription>
+<Value> 03 </Value>
+<Selected> true </Selected>
+</Range>
+<Range>
+<ValDescription> Cuban </ValDescription>
+<Value> 04 </Value>
+<Selected> true </Selected>
+</Range>
+<Range>
+<ValDescription> Domincan </ValDescription>
+<Value> 05 </Value>
+<Selected> true </Selected>
+</Range>
+<Range>
+<ValDescription> Costa Rican </ValDescription>
+<Value> 06 </Value>
+<Selected> true </Selected>
+</Range>
+<Range>
+<ValDescription> Guatemalan </ValDescription>
+<Value> 07 </Value>
+<Selected> true </Selected>
+</Range>
+<Range>
+<ValDescription> Honduran </ValDescription>
+<Value> 08 </Value>
+<Selected> true </Selected>
+</Range>
+<Range>
+<ValDescription> Nicaraguan </ValDescription>
+<Value> 09 </Value>
+<Selected> true </Selected>
+</Range>
+<Range>
+<ValDescription> Panamanian </ValDescription>
+<Value> 10 </Value>
+<Selected> true </Selected>
+</Range>
+<Range>
+<ValDescription> Salvadoran </ValDescription>
+<Value> 11 </Value>
+<Selected> true </Selected>
+</Range>
+<Range>
+<ValDescription> Other Central American </ValDescription>
+<Value> 12 </Value>
+<Selected> true </Selected>
+</Range>
+<Range>
+<ValDescription> Argentinean </ValDescription>
+<Value> 13 </Value>
+<Selected> true </Selected>
+</Range>
+<Range>
+<ValDescription> Bolivian </ValDescription>
+<Value> 14 </Value>
+<Selected> true </Selected>
+</Range>
+<Range>
+<ValDescription> Chilean </ValDescription>
+<Value> 15 </Value>
+<Selected> true </Selected>
+</Range>
+<Range>
+<ValDescription> Colombian </ValDescription>
+<Value> 16 </Value>
+<Selected> true </Selected>
+</Range>
+<Range>
+<ValDescription> Ecuadorian </ValDescription>
+<Value> 17 </Value>
+<Selected> true </Selected>
+</Range>
+<Range>
+<ValDescription> Paraguayan </ValDescription>
+<Value> 18 </Value>
+<Selected> true </Selected>
+</Range>
+<Range>
+<ValDescription> Peruvian </ValDescription>
+<Value> 19 </Value>
+<Selected> true </Selected>
+</Range>
+<Range>
+<ValDescription> Uruguayan </ValDescription>
+<Value> 20 </Value>
+<Selected> true </Selected>
+</Range>
+<Range>
+<ValDescription> Venezuelan </ValDescription>
+<Value> 21 </Value>
+<Selected> true </Selected>
+</Range>
+<Range>
+<ValDescription> Other South American </ValDescription>
+<Value> 22 </Value>
+<Selected> true </Selected>
+</Range>
+<Range>
+<ValDescription> Spaniard </ValDescription>
+<Value> 23 </Value>
+<Selected> true </Selected>
+</Range>
+<Range>
+<ValDescription> All other Spanish/Hispanic/Latino </ValDescription>
+<Value> 24 </Value>
+<Selected> true </Selected>
+</Range>
+</Ranges>
+</Variable>
+<Variable>
+<VarId>5e148ccff3abf3f4b54b050e4ba8c42d</VarId>
+<Idnum> 551913 </Idnum>
+<Type> 1 </Type>
+<VarMnemonic> POVPIP </VarMnemonic>
+<VarDescription> Income-to-poverty ratio recode </VarDescription>
+<Ranges>
+<RangeCount> 3 </RangeCount>
+<Range>
+<ValDescription> N/A </ValDescription>
+<Value> -1 </Value>
+<Selected> true </Selected>
+</Range>
+<Range>
+<ValDescription> Below 501 percent </ValDescription>
+<OrigMinVal> 000 </OrigMinVal>
+<OrigMaxVal> 500 </OrigMaxVal>
+<Selected> true </Selected>
+</Range>
+<Range>
+<ValDescription> 501 percent or more </ValDescription>
+<Value> 501 </Value>
+<Selected> true </Selected>
+</Range>
+</Ranges>
+</Variable>
+<Variable>
+<VarId>c5f1fdc9efe76af9f4dd9a4c40b14334</VarId>
+<Idnum> 735426 </Idnum>
+<Type> 1 </Type>
+<VarMnemonic> RAC1P </VarMnemonic>
+<VarDescription> Recoded detailed race code </VarDescription>
+<Ranges>
+<RangeCount> 9 </RangeCount>
+<Range>
+<ValDescription> White alone </ValDescription>
+<Value> 1 </Value>
+<Selected> true </Selected>
+</Range>
+<Range>
+<ValDescription> Black or African American alone </ValDescription>
+<Value> 2 </Value>
+<Selected> true </Selected>
+</Range>
+<Range>
+<ValDescription> American Indian alone </ValDescription>
+<Value> 3 </Value>
+<Selected> true </Selected>
+</Range>
+<Range>
+<ValDescription> Alaska Native alone </ValDescription>
+<Value> 4 </Value>
+<Selected> true </Selected>
+</Range>
+<Range>
+<ValDescription> American Indian and Alaska Native tribes specified; or American Indian or Alaska Native, not specified and no other races </ValDescription>
+<Value> 5 </Value>
+<Selected> true </Selected>
+</Range>
+<Range>
+<ValDescription> Asian alone </ValDescription>
+<Value> 6 </Value>
+<Selected> true </Selected>
+</Range>
+<Range>
+<ValDescription> Native Hawaiian and Other Pacific Islander alone </ValDescription>
+<Value> 7 </Value>
+<Selected> true </Selected>
+</Range>
+<Range>
+<ValDescription> Some other race alone </ValDescription>
+<Value> 8 </Value>
+<Selected> true </Selected>
+</Range>
+<Range>
+<ValDescription> Two or More Races </ValDescription>
+<Value> 9 </Value>
+<Selected> true </Selected>
+</Range>
+</Ranges>
+</Variable>
+<ConcatenatedVariable>
+<Variable>
+<VarId>7df34e291ddf15228cc22f9967e21e9e</VarId>
+<Idnum> -101 </Idnum>
+<Type> 1 </Type>
+<VarMnemonic> GEOG-101 </VarMnemonic>
+<VarDescription> FIPS State Code </VarDescription>
+<CVLabel> FIPS State Code </CVLabel>
+<Componentid> 1159 </Componentid>
+<Periodid> 3377 </Periodid>
+<VarComparisonid> 1 </VarComparisonid>
+</Variable>
+<Definition>
+<DefSize> 1 </DefSize>
+<CVID> 551917 </CVID>
+<CVMnemonic> ST </CVMnemonic>
+<CVGeoReferenceDate> 2006-01-01 </CVGeoReferenceDate>
+<CVValues>
+<CVNumValues> 1 </CVNumValues>
+<CVValue> 40 </CVValue>
+<CVNumCodes> 1 </CVNumCodes>
+<CVCode> 42 </CVCode>
+<CVValLabel> Pennsylvania </CVValLabel>
+</CVValues>
+</Definition>
+<CVCodeset> 1 </CVCodeset>
+<CVHierarchy> 87 </CVHierarchy>
+<CVLevel> 1 </CVLevel>
+</ConcatenatedVariable>
+<RecodeItem>
+<RecodeIdnum> -1 </RecodeIdnum>
+<RecodeMnemonic> RECODE1 </RecodeMnemonic>
+<RecodeLabel> HISP-Recode </RecodeLabel>
+<RecodeUserDefined>
+<Variable>
+<VarId>3183833b1b8d085a2394dae2cabb0d97</VarId>
+<Idnum> 551889 </Idnum>
+<Type> 1 </Type>
+<VarMnemonic> HISP </VarMnemonic>
+<VarDescription> Hispanic recode </VarDescription>
+</Variable>
+<CodingScheme>
+<Value> 1 </Value>
+<Label> Not Hispanic </Label>
+<Description> {01} </Description>
+<Value> 2 </Value>
+<Label> Hispanic </Label>
+<Description> {02 ,03 ,04 ,05 ,06 ,07 ,08 ,09 ,10 ,11 ,12 ,13 ,14 ,15 ,16 ,17 ,18 ,19 ,20 ,21 ,22 ,23 ,24} </Description>
+</CodingScheme>
+</RecodeItem>
+<RecodeItem>
+<RecodeIdnum> -2 </RecodeIdnum>
+<RecodeMnemonic> RECODE2 </RecodeMnemonic>
+<RecodeLabel> RAC1P-Recode </RecodeLabel>
+<RecodeUserDefined>
+<Variable>
+<VarId>c5f1fdc9efe76af9f4dd9a4c40b14334</VarId>
+<Idnum> 735426 </Idnum>
+<Type> 1 </Type>
+<VarMnemonic> RAC1P </VarMnemonic>
+<VarDescription> Recoded detailed race code </VarDescription>
+</Variable>
+<CodingScheme>
+<Value> 1 </Value>
+<Label> White alone </Label>
+<Description> {1} </Description>
+<Value> 2 </Value>
+<Label> Black alone </Label>
+<Description> {2} </Description>
+<Value> 3 </Value>
+<Label> Asian alone </Label>
+<Description> {6} </Description>
+<Value> 4 </Value>
+<Label> Other </Label>
+<Description> {3 ,4 ,5 ,7 ,8 ,9} </Description>
+</CodingScheme>
+</RecodeItem>
+<RecodeItem>
+<RecodeIdnum> -3 </RecodeIdnum>
+<RecodeMnemonic> RECODE3 </RecodeMnemonic>
+<RecodeLabel> POVPIP-Recode </RecodeLabel>
+<RecodeUserDefined>
+<Variable>
+<VarId>5e148ccff3abf3f4b54b050e4ba8c42d</VarId>
+<Idnum> 551913 </Idnum>
+<Type> 1 </Type>
+<VarMnemonic> POVPIP </VarMnemonic>
+<VarDescription> Income-to-poverty ratio recode </VarDescription>
+</Variable>
+<CodingScheme>
+<Value> 1 </Value>
+<Label> Below Poverty </Label>
+<Description> {Between 0 and 99} </Description>
+<Value> 2 </Value>
+<Label> Above Poverty </Label>
+<Description> {501 ,Between 100 and 500 } </Description>
+</CodingScheme>
+</RecodeItem>
+<Variable>
+<VarId>dd0b8248f873a02937c99994bee603b0</VarId>
+<Idnum> 551785 </Idnum>
+<Type> 1 </Type>
+<VarMnemonic> PWGTP </VarMnemonic>
+<VarDescription> PUMS person weight </VarDescription>
+<Ranges>
+<RangeCount> 1 </RangeCount>
+<Range>
+<ValDescription> Continuous values of PWGTP </ValDescription>
+<OrigMinVal> 1 </OrigMinVal>
+<OrigMaxVal> 9999 </OrigMaxVal>
+<Selected> true </Selected>
+</Range>
+</Ranges>
+</Variable>
+<Variable>
+<VarId>a009fdbf1cfd4c6f676edd80b451da00</VarId>
+<Idnum> 551787 </Idnum>
+<Type> 1 </Type>
+<VarMnemonic> AGEP </VarMnemonic>
+<VarDescription> Age </VarDescription>
+<Ranges>
+<RangeCount> 2 </RangeCount>
+<Range>
+<ValDescription> Under 1 year </ValDescription>
+<Value> 00 </Value>
+<Selected> true </Selected>
+</Range>
+<Range>
+<ValDescription> 1 to 99 years (Top-coded***) </ValDescription>
+<OrigMinVal> 01 </OrigMinVal>
+<OrigMaxVal> 99 </OrigMaxVal>
+<Selected> true </Selected>
+</Range>
+</Ranges>
+</Variable>
+<Variable>
+<VarId>fd7f1917b0ae6a3ba8e02ffc39e172f0</VarId>
+<Idnum> 551916 </Idnum>
+<Type> 1 </Type>
+<VarMnemonic> SPORDER </VarMnemonic>
+<VarDescription> Person key after swapping </VarDescription>
+<Ranges>
+<RangeCount> 1 </RangeCount>
+<Range>
+<ValDescription> Continuous values of SPORDER </ValDescription>
+<OrigMinVal> 1 </OrigMinVal>
+<OrigMaxVal> 20 </OrigMaxVal>
+<Selected> true </Selected>
+</Range>
+</Ranges>
+</Variable>
+<Variable>
+<VarId>88ac42bf66aab55b6986be01adbe0ae9</VarId>
+<Idnum> 551919 </Idnum>
+<Type> 1 </Type>
+<VarMnemonic> PWGTP1 </VarMnemonic>
+<VarDescription> 1st PUMS Person Replicate Weight </VarDescription>
+<Ranges>
+<RangeCount> 0 </RangeCount>
+</Ranges>
+</Variable>
+<Variable>
+<VarId>4c3208a265c137cab3be2f95cfe2941b</VarId>
+<Idnum> 551920 </Idnum>
+<Type> 1 </Type>
+<VarMnemonic> PWGTP10 </VarMnemonic>
+<VarDescription> 10th PUMS Person Replicate Weight </VarDescription>
+<Ranges>
+<RangeCount> 0 </RangeCount>
+</Ranges>
+</Variable>
+<Variable>
+<VarId>c048d147b700178ec9ddd596df7b3e63</VarId>
+<Idnum> 551921 </Idnum>
+<Type> 1 </Type>
+<VarMnemonic> PWGTP11 </VarMnemonic>
+<VarDescription> 11th PUMS Person Replicate Weight </VarDescription>
+<Ranges>
+<RangeCount> 0 </RangeCount>
+</Ranges>
+</Variable>
+<Variable>
+<VarId>2b271272cc99a0de5f60f8a7e21edc94</VarId>
+<Idnum> 551922 </Idnum>
+<Type> 1 </Type>
+<VarMnemonic> PWGTP12 </VarMnemonic>
+<VarDescription> 12th PUMS Person Replicate Weight </VarDescription>
+<Ranges>
+<RangeCount> 0 </RangeCount>
+</Ranges>
+</Variable>
+<Variable>
+<VarId>204ba2a0432aa6fb84662463e29df9bb</VarId>
+<Idnum> 551923 </Idnum>
+<Type> 1 </Type>
+<VarMnemonic> PWGTP13 </VarMnemonic>
+<VarDescription> 13th PUMS Person Replicate Weight </VarDescription>
+<Ranges>
+<RangeCount> 0 </RangeCount>
+</Ranges>
+</Variable>
+<Variable>
+<VarId>cf6988571d135b8bd2aa91f1a9647ef7</VarId>
+<Idnum> 551924 </Idnum>
+<Type> 1 </Type>
+<VarMnemonic> PWGTP14 </VarMnemonic>
+<VarDescription> 14th PUMS Person Replicate Weight </VarDescription>
+<Ranges>
+<RangeCount> 0 </RangeCount>
+</Ranges>
+</Variable>
+<Variable>
+<VarId>c2590f133cd9e1d73e1000e4af2566c0</VarId>
+<Idnum> 551925 </Idnum>
+<Type> 1 </Type>
+<VarMnemonic> PWGTP15 </VarMnemonic>
+<VarDescription> 15th PUMS Person Replicate Weight </VarDescription>
+<Ranges>
+<RangeCount> 0 </RangeCount>
+</Ranges>
+</Variable>
+<Variable>
+<VarId>3ce73a87f1eec9eee4e4b2c9e67252bb</VarId>
+<Idnum> 551926 </Idnum>
+<Type> 1 </Type>
+<VarMnemonic> PWGTP16 </VarMnemonic>
+<VarDescription> 16th PUMS Person Replicate Weight </VarDescription>
+<Ranges>
+<RangeCount> 0 </RangeCount>
+</Ranges>
+</Variable>
+<Variable>
+<VarId>c68f46b9372f60f8b61666671834c1f6</VarId>
+<Idnum> 551927 </Idnum>
+<Type> 1 </Type>
+<VarMnemonic> PWGTP17 </VarMnemonic>
+<VarDescription> 17th PUMS Person Replicate Weight </VarDescription>
+<Ranges>
+<RangeCount> 0 </RangeCount>
+</Ranges>
+</Variable>
+<Variable>
+<VarId>7192410738fc450b336456393a1da592</VarId>
+<Idnum> 551928 </Idnum>
+<Type> 1 </Type>
+<VarMnemonic> PWGTP18 </VarMnemonic>
+<VarDescription> 18th PUMS Person Replicate Weight </VarDescription>
+<Ranges>
+<RangeCount> 0 </RangeCount>
+</Ranges>
+</Variable>
+<Variable>
+<VarId>517e8c1c44ce2ed12136e9df13b35a5</VarId>
+<Idnum> 551929 </Idnum>
+<Type> 1 </Type>
+<VarMnemonic> PWGTP19 </VarMnemonic>
+<VarDescription> 19th PUMS Person Replicate Weight </VarDescription>
+<Ranges>
+<RangeCount> 0 </RangeCount>
+</Ranges>
+</Variable>
+<Variable>
+<VarId>38c0c4ceced0179c97573cffd85b33c0</VarId>
+<Idnum> 551930 </Idnum>
+<Type> 1 </Type>
+<VarMnemonic> PWGTP2 </VarMnemonic>
+<VarDescription> 2nd PUMS Person Replicate Weight </VarDescription>
+<Ranges>
+<RangeCount> 0 </RangeCount>
+</Ranges>
+</Variable>
+<Variable>
+<VarId>5e40728f0f32a44dec9ce91bae3ff0f8</VarId>
+<Idnum> 551931 </Idnum>
+<Type> 1 </Type>
+<VarMnemonic> PWGTP20 </VarMnemonic>
+<VarDescription> 20th PUMS Person Replicate Weight </VarDescription>
+<Ranges>
+<RangeCount> 0 </RangeCount>
+</Ranges>
+</Variable>
+<Variable>
+<VarId>51c07dce5e48c510ecce5e96e189a028</VarId>
+<Idnum> 551932 </Idnum>
+<Type> 1 </Type>
+<VarMnemonic> PWGTP21 </VarMnemonic>
+<VarDescription> 21st PUMS Person Replicate Weight </VarDescription>
+<Ranges>
+<RangeCount> 0 </RangeCount>
+</Ranges>
+</Variable>
+<Variable>
+<VarId>e858bfa74b896dbfc7d50492f6ff296b</VarId>
+<Idnum> 551933 </Idnum>
+<Type> 1 </Type>
+<VarMnemonic> PWGTP22 </VarMnemonic>
+<VarDescription> 22nd PUMS Person Replicate Weight </VarDescription>
+<Ranges>
+<RangeCount> 0 </RangeCount>
+</Ranges>
+</Variable>
+<Variable>
+<VarId>65174e955152ebe4a891b27d85b9e67e</VarId>
+<Idnum> 551934 </Idnum>
+<Type> 1 </Type>
+<VarMnemonic> PWGTP23 </VarMnemonic>
+<VarDescription> 23rd PUMS Person Replicate Weight </VarDescription>
+<Ranges>
+<RangeCount> 0 </RangeCount>
+</Ranges>
+</Variable>
+<Variable>
+<VarId>c68ee83eb50cd26c3a3625fee91b634</VarId>
+<Idnum> 551935 </Idnum>
+<Type> 1 </Type>
+<VarMnemonic> PWGTP24 </VarMnemonic>
+<VarDescription> 24th PUMS Person Replicate Weight </VarDescription>
+<Ranges>
+<RangeCount> 0 </RangeCount>
+</Ranges>
+</Variable>
+<Variable>
+<VarId>8f2d98c26fb4b1ed038d63e684ecf5b2</VarId>
+<Idnum> 551936 </Idnum>
+<Type> 1 </Type>
+<VarMnemonic> PWGTP25 </VarMnemonic>
+<VarDescription> 25th PUMS Person Replicate Weight </VarDescription>
+<Ranges>
+<RangeCount> 0 </RangeCount>
+</Ranges>
+</Variable>
+<Variable>
+<VarId>dc76477da3a11af9b998024083a0f735</VarId>
+<Idnum> 551937 </Idnum>
+<Type> 1 </Type>
+<VarMnemonic> PWGTP26 </VarMnemonic>
+<VarDescription> 26th PUMS Person Replicate Weight </VarDescription>
+<Ranges>
+<RangeCount> 0 </RangeCount>
+</Ranges>
+</Variable>
+<Variable>
+<VarId>cb0d3c2cd5614fa70849b7abf8ba1e88</VarId>
+<Idnum> 551938 </Idnum>
+<Type> 1 </Type>
+<VarMnemonic> PWGTP27 </VarMnemonic>
+<VarDescription> 27th PUMS Person Replicate Weight </VarDescription>
+<Ranges>
+<RangeCount> 0 </RangeCount>
+</Ranges>
+</Variable>
+<Variable>
+<VarId>bae051690a077b7a0e0ad32143ed6b6b</VarId>
+<Idnum> 551939 </Idnum>
+<Type> 1 </Type>
+<VarMnemonic> PWGTP28 </VarMnemonic>
+<VarDescription> 28th PUMS Person Replicate Weight </VarDescription>
+<Ranges>
+<RangeCount> 0 </RangeCount>
+</Ranges>
+</Variable>
+<Variable>
+<VarId>ae1770ffa93977df94e40847bc0e39a5</VarId>
+<Idnum> 551940 </Idnum>
+<Type> 1 </Type>
+<VarMnemonic> PWGTP29 </VarMnemonic>
+<VarDescription> 29th PUMS Person Replicate Weight </VarDescription>
+<Ranges>
+<RangeCount> 0 </RangeCount>
+</Ranges>
+</Variable>
+<Variable>
+<VarId>a93728a8f73a1780dfc491b1ce72917d</VarId>
+<Idnum> 551941 </Idnum>
+<Type> 1 </Type>
+<VarMnemonic> PWGTP3 </VarMnemonic>
+<VarDescription> 3rd PUMS Person Replicate Weight </VarDescription>
+<Ranges>
+<RangeCount> 0 </RangeCount>
+</Ranges>
+</Variable>
+<Variable>
+<VarId>ffb3b1e0f38c7886b60bfe3ac44a7340</VarId>
+<Idnum> 551942 </Idnum>
+<Type> 1 </Type>
+<VarMnemonic> PWGTP30 </VarMnemonic>
+<VarDescription> 30th PUMS Person Replicate Weight </VarDescription>
+<Ranges>
+<RangeCount> 0 </RangeCount>
+</Ranges>
+</Variable>
+<Variable>
+<VarId>1e1869bf2ae8fd33015215208a437715</VarId>
+<Idnum> 551943 </Idnum>
+<Type> 1 </Type>
+<VarMnemonic> PWGTP31 </VarMnemonic>
+<VarDescription> 31st PUMS Person Replicate Weight </VarDescription>
+<Ranges>
+<RangeCount> 0 </RangeCount>
+</Ranges>
+</Variable>
+<Variable>
+<VarId>be107301a3cd017d4811e64b4c4abf9c</VarId>
+<Idnum> 551944 </Idnum>
+<Type> 1 </Type>
+<VarMnemonic> PWGTP32 </VarMnemonic>
+<VarDescription> 32nd PUMS Person Replicate Weight </VarDescription>
+<Ranges>
+<RangeCount> 0 </RangeCount>
+</Ranges>
+</Variable>
+<Variable>
+<VarId>cb7a0727f94ddad3839b04fd2ac838e6</VarId>
+<Idnum> 551945 </Idnum>
+<Type> 1 </Type>
+<VarMnemonic> PWGTP33 </VarMnemonic>
+<VarDescription> 33rd PUMS Person Replicate Weight </VarDescription>
+<Ranges>
+<RangeCount> 0 </RangeCount>
+</Ranges>
+</Variable>
+<Variable>
+<VarId>2e5f493e1eb5861aae103d1f7643567d</VarId>
+<Idnum> 551946 </Idnum>
+<Type> 1 </Type>
+<VarMnemonic> PWGTP34 </VarMnemonic>
+<VarDescription> 34th PUMS Person Replicate Weight </VarDescription>
+<Ranges>
+<RangeCount> 0 </RangeCount>
+</Ranges>
+</Variable>
+<Variable>
+<VarId>2661adbbc9558774898c26972691a20b</VarId>
+<Idnum> 551947 </Idnum>
+<Type> 1 </Type>
+<VarMnemonic> PWGTP35 </VarMnemonic>
+<VarDescription> 35th PUMS Person Replicate Weight </VarDescription>
+<Ranges>
+<RangeCount> 0 </RangeCount>
+</Ranges>
+</Variable>
+<Variable>
+<VarId>c6d6f367ada4d9c692f9822206b0dc</VarId>
+<Idnum> 551948 </Idnum>
+<Type> 1 </Type>
+<VarMnemonic> PWGTP36 </VarMnemonic>
+<VarDescription> 36th PUMS Person Replicate Weight </VarDescription>
+<Ranges>
+<RangeCount> 0 </RangeCount>
+</Ranges>
+</Variable>
+<Variable>
+<VarId>1b3ddefe29123010094ac3d4c952e55a</VarId>
+<Idnum> 551949 </Idnum>
+<Type> 1 </Type>
+<VarMnemonic> PWGTP37 </VarMnemonic>
+<VarDescription> 37th PUMS Person Replicate Weight </VarDescription>
+<Ranges>
+<RangeCount> 0 </RangeCount>
+</Ranges>
+</Variable>
+<Variable>
+<VarId>ed7357be36519bc38db0873a03faeaa7</VarId>
+<Idnum> 551950 </Idnum>
+<Type> 1 </Type>
+<VarMnemonic> PWGTP38 </VarMnemonic>
+<VarDescription> 38th PUMS Person Replicate Weight </VarDescription>
+<Ranges>
+<RangeCount> 0 </RangeCount>
+</Ranges>
+</Variable>
+<Variable>
+<VarId>4e3d6664b6f6fd1b10a4ea55fa745f25</VarId>
+<Idnum> 551951 </Idnum>
+<Type> 1 </Type>
+<VarMnemonic> PWGTP39 </VarMnemonic>
+<VarDescription> 39th PUMS Person Replicate Weight </VarDescription>
+<Ranges>
+<RangeCount> 0 </RangeCount>
+</Ranges>
+</Variable>
+<Variable>
+<VarId>4a0e7774dc2d94b2a95523ce1bd2165e</VarId>
+<Idnum> 551952 </Idnum>
+<Type> 1 </Type>
+<VarMnemonic> PWGTP4 </VarMnemonic>
+<VarDescription> 4th PUMS Person Replicate Weight </VarDescription>
+<Ranges>
+<RangeCount> 0 </RangeCount>
+</Ranges>
+</Variable>
+<Variable>
+<VarId>d915788871c5320e74d29d7e2dd9e71</VarId>
+<Idnum> 551953 </Idnum>
+<Type> 1 </Type>
+<VarMnemonic> PWGTP40 </VarMnemonic>
+<VarDescription> 40th PUMS Person Replicate Weight </VarDescription>
+<Ranges>
+<RangeCount> 0 </RangeCount>
+</Ranges>
+</Variable>
+<Variable>
+<VarId>6aee36735bb708fe9f4ebda5811a6b61</VarId>
+<Idnum> 551954 </Idnum>
+<Type> 1 </Type>
+<VarMnemonic> PWGTP41 </VarMnemonic>
+<VarDescription> 41st PUMS Person Replicate Weight </VarDescription>
+<Ranges>
+<RangeCount> 0 </RangeCount>
+</Ranges>
+</Variable>
+<Variable>
+<VarId>19296f8fb80bfca44f5a6ed564f05da7</VarId>
+<Idnum> 551955 </Idnum>
+<Type> 1 </Type>
+<VarMnemonic> PWGTP42 </VarMnemonic>
+<VarDescription> 42nd PUMS Person Replicate Weight </VarDescription>
+<Ranges>
+<RangeCount> 0 </RangeCount>
+</Ranges>
+</Variable>
+<Variable>
+<VarId>2fdd87dc629cf24dee7e47dc2f2062a2</VarId>
+<Idnum> 551956 </Idnum>
+<Type> 1 </Type>
+<VarMnemonic> PWGTP43 </VarMnemonic>
+<VarDescription> 43rd PUMS Person Replicate Weight </VarDescription>
+<Ranges>
+<RangeCount> 0 </RangeCount>
+</Ranges>
+</Variable>
+<Variable>
+<VarId>a87ec36baaeb2119dbead665ba388d8f</VarId>
+<Idnum> 551957 </Idnum>
+<Type> 1 </Type>
+<VarMnemonic> PWGTP44 </VarMnemonic>
+<VarDescription> 44th PUMS Person Replicate Weight </VarDescription>
+<Ranges>
+<RangeCount> 0 </RangeCount>
+</Ranges>
+</Variable>
+<Variable>
+<VarId>f27cb56e4c79fa5c9b85979178740d83</VarId>
+<Idnum> 551958 </Idnum>
+<Type> 1 </Type>
+<VarMnemonic> PWGTP45 </VarMnemonic>
+<VarDescription> 45th PUMS Person Replicate Weight </VarDescription>
+<Ranges>
+<RangeCount> 0 </RangeCount>
+</Ranges>
+</Variable>
+<Variable>
+<VarId>e5c7e031c3e3b914e3ef0452c0188f09</VarId>
+<Idnum> 551959 </Idnum>
+<Type> 1 </Type>
+<VarMnemonic> PWGTP46 </VarMnemonic>
+<VarDescription> 46th PUMS Person Replicate Weight </VarDescription>
+<Ranges>
+<RangeCount> 0 </RangeCount>
+</Ranges>
+</Variable>
+<Variable>
+<VarId>7315599e3e690a8c0acc8455b80dc691</VarId>
+<Idnum> 551960 </Idnum>
+<Type> 1 </Type>
+<VarMnemonic> PWGTP47 </VarMnemonic>
+<VarDescription> 47th PUMS Person Replicate Weight </VarDescription>
+<Ranges>
+<RangeCount> 0 </RangeCount>
+</Ranges>
+</Variable>
+<Variable>
+<VarId>5cee8b29c72271ec29c0d92acc9ea4c5</VarId>
+<Idnum> 551961 </Idnum>
+<Type> 1 </Type>
+<VarMnemonic> PWGTP48 </VarMnemonic>
+<VarDescription> 48th PUMS Person Replicate Weight </VarDescription>
+<Ranges>
+<RangeCount> 0 </RangeCount>
+</Ranges>
+</Variable>
+<Variable>
+<VarId>9a8f0a8ed2c046f3bba04eb413396391</VarId>
+<Idnum> 551962 </Idnum>
+<Type> 1 </Type>
+<VarMnemonic> PWGTP49 </VarMnemonic>
+<VarDescription> 49th PUMS Person Replicate Weight </VarDescription>
+<Ranges>
+<RangeCount> 0 </RangeCount>
+</Ranges>
+</Variable>
+<Variable>
+<VarId>6fee5588755f8e1ef6c528e0376b46b4</VarId>
+<Idnum> 551963 </Idnum>
+<Type> 1 </Type>
+<VarMnemonic> PWGTP5 </VarMnemonic>
+<VarDescription> 5th PUMS Person Replicate Weight </VarDescription>
+<Ranges>
+<RangeCount> 0 </RangeCount>
+</Ranges>
+</Variable>
+<Variable>
+<VarId>f4b09cc66e5dacc5c7722818324dedeb</VarId>
+<Idnum> 551964 </Idnum>
+<Type> 1 </Type>
+<VarMnemonic> PWGTP50 </VarMnemonic>
+<VarDescription> 50th PUMS Person Replicate Weight </VarDescription>
+<Ranges>
+<RangeCount> 0 </RangeCount>
+</Ranges>
+</Variable>
+<Variable>
+<VarId>94b4750ea56987612b0e872f611db91a</VarId>
+<Idnum> 551965 </Idnum>
+<Type> 1 </Type>
+<VarMnemonic> PWGTP51 </VarMnemonic>
+<VarDescription> 51st PUMS Person Replicate Weight </VarDescription>
+<Ranges>
+<RangeCount> 0 </RangeCount>
+</Ranges>
+</Variable>
+<Variable>
+<VarId>827d468a4cfa424c33566c84a9f1b423</VarId>
+<Idnum> 551966 </Idnum>
+<Type> 1 </Type>
+<VarMnemonic> PWGTP52 </VarMnemonic>
+<VarDescription> 52nd PUMS Person Replicate Weight </VarDescription>
+<Ranges>
+<RangeCount> 0 </RangeCount>
+</Ranges>
+</Variable>
+<Variable>
+<VarId>d6e2156b7881b3440a0149f37ef6cd38</VarId>
+<Idnum> 551967 </Idnum>
+<Type> 1 </Type>
+<VarMnemonic> PWGTP53 </VarMnemonic>
+<VarDescription> 53rd PUMS Person Replicate Weight </VarDescription>
+<Ranges>
+<RangeCount> 0 </RangeCount>
+</Ranges>
+</Variable>
+<Variable>
+<VarId>c6a8c3d825693ead61da8e1389061fb0</VarId>
+<Idnum> 551968 </Idnum>
+<Type> 1 </Type>
+<VarMnemonic> PWGTP54 </VarMnemonic>
+<VarDescription> 54th PUMS Person Replicate Weight </VarDescription>
+<Ranges>
+<RangeCount> 0 </RangeCount>
+</Ranges>
+</Variable>
+<Variable>
+<VarId>c40b8890c17fbaf979ce7cdc44c082b3</VarId>
+<Idnum> 551969 </Idnum>
+<Type> 1 </Type>
+<VarMnemonic> PWGTP55 </VarMnemonic>
+<VarDescription> 55th PUMS Person Replicate Weight </VarDescription>
+<Ranges>
+<RangeCount> 0 </RangeCount>
+</Ranges>
+</Variable>
+<Variable>
+<VarId>fbf39bc3d62b20f99c3e254ffb67c8cd</VarId>
+<Idnum> 551970 </Idnum>
+<Type> 1 </Type>
+<VarMnemonic> PWGTP56 </VarMnemonic>
+<VarDescription> 56th PUMS Person Replicate Weight </VarDescription>
+<Ranges>
+<RangeCount> 0 </RangeCount>
+</Ranges>
+</Variable>
+<Variable>
+<VarId>8be9938493863bf82e853010cfdacdac</VarId>
+<Idnum> 551971 </Idnum>
+<Type> 1 </Type>
+<VarMnemonic> PWGTP57 </VarMnemonic>
+<VarDescription> 57th PUMS Person Replicate Weight </VarDescription>
+<Ranges>
+<RangeCount> 0 </RangeCount>
+</Ranges>
+</Variable>
+<Variable>
+<VarId>d27458a4de09d956b80bf9eb72f85189</VarId>
+<Idnum> 551972 </Idnum>
+<Type> 1 </Type>
+<VarMnemonic> PWGTP58 </VarMnemonic>
+<VarDescription> 58th PUMS Person Replicate Weight </VarDescription>
+<Ranges>
+<RangeCount> 0 </RangeCount>
+</Ranges>
+</Variable>
+<Variable>
+<VarId>adef3b675e474c067e684e17c811a33f</VarId>
+<Idnum> 551973 </Idnum>
+<Type> 1 </Type>
+<VarMnemonic> PWGTP59 </VarMnemonic>
+<VarDescription> 59th PUMS Person Replicate Weight </VarDescription>
+<Ranges>
+<RangeCount> 0 </RangeCount>
+</Ranges>
+</Variable>
+<Variable>
+<VarId>d0b4186dcd1ab059e0dae445c7775d5d</VarId>
+<Idnum> 551974 </Idnum>
+<Type> 1 </Type>
+<VarMnemonic> PWGTP6 </VarMnemonic>
+<VarDescription> 6th PUMS Person Replicate Weight </VarDescription>
+<Ranges>
+<RangeCount> 0 </RangeCount>
+</Ranges>
+</Variable>
+<Variable>
+<VarId>17027a8c61f4039f6d3c352c9362bea6</VarId>
+<Idnum> 551975 </Idnum>
+<Type> 1 </Type>
+<VarMnemonic> PWGTP60 </VarMnemonic>
+<VarDescription> 60th PUMS Person Replicate Weight </VarDescription>
+<Ranges>
+<RangeCount> 0 </RangeCount>
+</Ranges>
+</Variable>
+<Variable>
+<VarId>c7856f105876a6791b65c89b409a01dd</VarId>
+<Idnum> 551976 </Idnum>
+<Type> 1 </Type>
+<VarMnemonic> PWGTP61 </VarMnemonic>
+<VarDescription> 61st PUMS Person Replicate Weight </VarDescription>
+<Ranges>
+<RangeCount> 0 </RangeCount>
+</Ranges>
+</Variable>
+<Variable>
+<VarId>897d848b98ceadb1762e65a44450afa2</VarId>
+<Idnum> 551977 </Idnum>
+<Type> 1 </Type>
+<VarMnemonic> PWGTP62 </VarMnemonic>
+<VarDescription> 62nd PUMS Person Replicate Weight </VarDescription>
+<Ranges>
+<RangeCount> 0 </RangeCount>
+</Ranges>
+</Variable>
+<Variable>
+<VarId>57780f9c13f5bf475a116861444f27db</VarId>
+<Idnum> 551978 </Idnum>
+<Type> 1 </Type>
+<VarMnemonic> PWGTP63 </VarMnemonic>
+<VarDescription> 63rd PUMS Person Replicate Weight </VarDescription>
+<Ranges>
+<RangeCount> 0 </RangeCount>
+</Ranges>
+</Variable>
+<Variable>
+<VarId>a41dda5dee55b9057286afa8e28d13aa</VarId>
+<Idnum> 551979 </Idnum>
+<Type> 1 </Type>
+<VarMnemonic> PWGTP64 </VarMnemonic>
+<VarDescription> 64th PUMS Person Replicate Weight </VarDescription>
+<Ranges>
+<RangeCount> 0 </RangeCount>
+</Ranges>
+</Variable>
+<Variable>
+<VarId>27ccf616ae979fcf166c06b746fbb596</VarId>
+<Idnum> 551980 </Idnum>
+<Type> 1 </Type>
+<VarMnemonic> PWGTP65 </VarMnemonic>
+<VarDescription> 65th PUMS Person Replicate Weight </VarDescription>
+<Ranges>
+<RangeCount> 0 </RangeCount>
+</Ranges>
+</Variable>
+<Variable>
+<VarId>aed142f75fbfac1e869a93e550474106</VarId>
+<Idnum> 551981 </Idnum>
+<Type> 1 </Type>
+<VarMnemonic> PWGTP66 </VarMnemonic>
+<VarDescription> 66th PUMS Person Replicate Weight </VarDescription>
+<Ranges>
+<RangeCount> 0 </RangeCount>
+</Ranges>
+</Variable>
+<Variable>
+<VarId>fd41b70729204ff96dc9e82617cf6b0e</VarId>
+<Idnum> 551982 </Idnum>
+<Type> 1 </Type>
+<VarMnemonic> PWGTP67 </VarMnemonic>
+<VarDescription> 67th PUMS Person Replicate Weight </VarDescription>
+<Ranges>
+<RangeCount> 0 </RangeCount>
+</Ranges>
+</Variable>
+<Variable>
+<VarId>c2ede9b427aa3c7b330f2e0b9b6bbf3b</VarId>
+<Idnum> 551983 </Idnum>
+<Type> 1 </Type>
+<VarMnemonic> PWGTP68 </VarMnemonic>
+<VarDescription> 68th PUMS Person Replicate Weight </VarDescription>
+<Ranges>
+<RangeCount> 0 </RangeCount>
+</Ranges>
+</Variable>
+<Variable>
+<VarId>ad6575788a3389a3e056228b03af5dc</VarId>
+<Idnum> 551984 </Idnum>
+<Type> 1 </Type>
+<VarMnemonic> PWGTP69 </VarMnemonic>
+<VarDescription> 69th PUMS Person Replicate Weight </VarDescription>
+<Ranges>
+<RangeCount> 0 </RangeCount>
+</Ranges>
+</Variable>
+<Variable>
+<VarId>aa6ee2931a4007c4e13635c43ccade4c</VarId>
+<Idnum> 551985 </Idnum>
+<Type> 1 </Type>
+<VarMnemonic> PWGTP7 </VarMnemonic>
+<VarDescription> 7th PUMS Person Replicate Weight </VarDescription>
+<Ranges>
+<RangeCount> 0 </RangeCount>
+</Ranges>
+</Variable>
+<Variable>
+<VarId>55831d3417da14265c5a130f3b5d547</VarId>
+<Idnum> 551986 </Idnum>
+<Type> 1 </Type>
+<VarMnemonic> PWGTP70 </VarMnemonic>
+<VarDescription> 70th PUMS Person Replicate Weight </VarDescription>
+<Ranges>
+<RangeCount> 0 </RangeCount>
+</Ranges>
+</Variable>
+<Variable>
+<VarId>886f0438aae905478ab04f504575d8fc</VarId>
+<Idnum> 551987 </Idnum>
+<Type> 1 </Type>
+<VarMnemonic> PWGTP71 </VarMnemonic>
+<VarDescription> 71st PUMS Person Replicate Weight </VarDescription>
+<Ranges>
+<RangeCount> 0 </RangeCount>
+</Ranges>
+</Variable>
+<Variable>
+<VarId>c3b42d1f0441df22d00a8f076f44c3c7</VarId>
+<Idnum> 551988 </Idnum>
+<Type> 1 </Type>
+<VarMnemonic> PWGTP72 </VarMnemonic>
+<VarDescription> 72nd PUMS Person Replicate Weight </VarDescription>
+<Ranges>
+<RangeCount> 0 </RangeCount>
+</Ranges>
+</Variable>
+<Variable>
+<VarId>9e93b701b7f583cdf7207b5ec035afb2</VarId>
+<Idnum> 551989 </Idnum>
+<Type> 1 </Type>
+<VarMnemonic> PWGTP73 </VarMnemonic>
+<VarDescription> 73rd PUMS Person Replicate Weight </VarDescription>
+<Ranges>
+<RangeCount> 0 </RangeCount>
+</Ranges>
+</Variable>
+<Variable>
+<VarId>61aeb2c9d23f133e47942fea28b0793c</VarId>
+<Idnum> 551990 </Idnum>
+<Type> 1 </Type>
+<VarMnemonic> PWGTP74 </VarMnemonic>
+<VarDescription> 74th PUMS Person Replicate Weight </VarDescription>
+<Ranges>
+<RangeCount> 0 </RangeCount>
+</Ranges>
+</Variable>
+<Variable>
+<VarId>a02422798a97822900d7dcd77612d65c</VarId>
+<Idnum> 551991 </Idnum>
+<Type> 1 </Type>
+<VarMnemonic> PWGTP75 </VarMnemonic>
+<VarDescription> 75th PUMS Person Replicate Weight </VarDescription>
+<Ranges>
+<RangeCount> 0 </RangeCount>
+</Ranges>
+</Variable>
+<Variable>
+<VarId>550b376b7058a221d43314958399fead</VarId>
+<Idnum> 551992 </Idnum>
+<Type> 1 </Type>
+<VarMnemonic> PWGTP76 </VarMnemonic>
+<VarDescription> 76th PUMS Person Replicate Weight </VarDescription>
+<Ranges>
+<RangeCount> 0 </RangeCount>
+</Ranges>
+</Variable>
+<Variable>
+<VarId>8e125bf858938250c7316cb21e87647b</VarId>
+<Idnum> 551993 </Idnum>
+<Type> 1 </Type>
+<VarMnemonic> PWGTP77 </VarMnemonic>
+<VarDescription> 77th PUMS Person Replicate Weight </VarDescription>
+<Ranges>
+<RangeCount> 0 </RangeCount>
+</Ranges>
+</Variable>
+<Variable>
+<VarId>b6047e273cee65523d60b58019db1665</VarId>
+<Idnum> 551994 </Idnum>
+<Type> 1 </Type>
+<VarMnemonic> PWGTP78 </VarMnemonic>
+<VarDescription> 78th PUMS Person Replicate Weight </VarDescription>
+<Ranges>
+<RangeCount> 0 </RangeCount>
+</Ranges>
+</Variable>
+<Variable>
+<VarId>e2e105726861e3c47c755d99c3bcb379</VarId>
+<Idnum> 551995 </Idnum>
+<Type> 1 </Type>
+<VarMnemonic> PWGTP79 </VarMnemonic>
+<VarDescription> 79th PUMS Person Replicate Weight </VarDescription>
+<Ranges>
+<RangeCount> 0 </RangeCount>
+</Ranges>
+</Variable>
+<Variable>
+<VarId>4f74dc4bc67fd547298685472d950aa5</VarId>
+<Idnum> 551996 </Idnum>
+<Type> 1 </Type>
+<VarMnemonic> PWGTP8 </VarMnemonic>
+<VarDescription> 8th PUMS Person Replicate Weight </VarDescription>
+<Ranges>
+<RangeCount> 0 </RangeCount>
+</Ranges>
+</Variable>
+<Variable>
+<VarId>211733287f643c1d8026abe3f1136b05</VarId>
+<Idnum> 551997 </Idnum>
+<Type> 1 </Type>
+<VarMnemonic> PWGTP80 </VarMnemonic>
+<VarDescription> 80th PUMS Person Replicate Weight </VarDescription>
+<Ranges>
+<RangeCount> 0 </RangeCount>
+</Ranges>
+</Variable>
+<Variable>
+<VarId>860ff09879fd9b40ac777526fd457ff4</VarId>
+<Idnum> 551998 </Idnum>
+<Type> 1 </Type>
+<VarMnemonic> PWGTP9 </VarMnemonic>
+<VarDescription> 9th PUMS Person Replicate Weight </VarDescription>
+<Ranges>
+<RangeCount> 0 </RangeCount>
+</Ranges>
+</Variable>
+<Variable>
+<VarId>755de46acdc5546eee6aa2b7433471e5</VarId>
+<Idnum> 552117 </Idnum>
+<Type> 1 </Type>
+<VarMnemonic> COW </VarMnemonic>
+<VarDescription> Class of worker </VarDescription>
+<Ranges>
+<RangeCount> 10 </RangeCount>
+<Range>
+<ValDescription> N/A (less than 16 years old/NILF who last worked more than 5 years ago or never worked) </ValDescription>
+<Value> 0 </Value>
+<Selected> true </Selected>
+</Range>
+<Range>
+<ValDescription> Employee of a private for-profit co. or bus., or of an individual, for wages, salary, commissions </ValDescription>
+<Value> 1 </Value>
+<Selected> true </Selected>
+</Range>
+<Range>
+<ValDescription> Employee of a private not-for-profit, tax-exempt, or charitable organization </ValDescription>
+<Value> 2 </Value>
+<Selected> true </Selected>
+</Range>
+<Range>
+<ValDescription> Local government employee (city, county, etc.) </ValDescription>
+<Value> 3 </Value>
+<Selected> true </Selected>
+</Range>
+<Range>
+<ValDescription> State government employee </ValDescription>
+<Value> 4 </Value>
+<Selected> true </Selected>
+</Range>
+<Range>
+<ValDescription> Federal government employee </ValDescription>
+<Value> 5 </Value>
+<Selected> true </Selected>
+</Range>
+<Range>
+<ValDescription> Self-employed in own not incorporated business, professional practice, or farm </ValDescription>
+<Value> 6 </Value>
+<Selected> true </Selected>
+</Range>
+<Range>
+<ValDescription> Self-employed in own incorporated business, professional practice or farm </ValDescription>
+<Value> 7 </Value>
+<Selected> true </Selected>
+</Range>
+<Range>
+<ValDescription> Working without pay in family business or farm </ValDescription>
+<Value> 8 </Value>
+<Selected> true </Selected>
+</Range>
+<Range>
+<ValDescription> Unemployed and last worked 5 years ago or earlier or never worked </ValDescription>
+<Value> 9 </Value>
+<Selected> true </Selected>
+</Range>
+</Ranges>
+</Variable>
+<Variable>
+<VarId>8e7c84889818f1555a34dcd495472606</VarId>
+<Idnum> 552127 </Idnum>
+<Type> 1 </Type>
+<VarMnemonic> ESR </VarMnemonic>
+<VarDescription> Employment status recode </VarDescription>
+<Ranges>
+<RangeCount> 7 </RangeCount>
+<Range>
+<ValDescription> N/A (less than 16 years old) </ValDescription>
+<Value> 0 </Value>
+<Selected> true </Selected>
+</Range>
+<Range>
+<ValDescription> Civilian employed, at work </ValDescription>
+<Value> 1 </Value>
+<Selected> true </Selected>
+</Range>
+<Range>
+<ValDescription> Civilian employed, with a job but not at work </ValDescription>
+<Value> 2 </Value>
+<Selected> true </Selected>
+</Range>
+<Range>
+<ValDescription> Unemployed </ValDescription>
+<Value> 3 </Value>
+<Selected> true </Selected>
+</Range>
+<Range>
+<ValDescription> Armed Forces, At Work </ValDescription>
+<Value> 4 </Value>
+<Selected> true </Selected>
+</Range>
+<Range>
+<ValDescription> Armed Forces, With a Job But Not At Work </ValDescription>
+<Value> 5 </Value>
+<Selected> true </Selected>
+</Range>
+<Range>
+<ValDescription> Not in Labor Force </ValDescription>
+<Value> 6 </Value>
+<Selected> true </Selected>
+</Range>
+</Ranges>
+</Variable>
+<Variable>
+<VarId>76e636f223b490787238369890bb3367</VarId>
+<Idnum> 552144 </Idnum>
+<Type> 1 </Type>
+<VarMnemonic> MAR </VarMnemonic>
+<VarDescription> Marital status </VarDescription>
+<Ranges>
+<RangeCount> 5 </RangeCount>
+<Range>
+<ValDescription> Married </ValDescription>
+<Value> 1 </Value>
+<Selected> true </Selected>
+</Range>
+<Range>
+<ValDescription> Widowed </ValDescription>
+<Value> 2 </Value>
+<Selected> true </Selected>
+</Range>
+<Range>
+<ValDescription> Divorced </ValDescription>
+<Value> 3 </Value>
+<Selected> true </Selected>
+</Range>
+<Range>
+<ValDescription> Separated </ValDescription>
+<Value> 4 </Value>
+<Selected> true </Selected>
+</Range>
+<Range>
+<ValDescription> Never married or under 15 years old </ValDescription>
+<Value> 5 </Value>
+<Selected> true </Selected>
+</Range>
+</Ranges>
+</Variable>
+<Variable>
+<VarId>dfb2298e48c41769f3e3756239ce36e3</VarId>
+<Idnum> 552174 </Idnum>
+<Type> 1 </Type>
+<VarMnemonic> OC </VarMnemonic>
+<VarDescription> Own child </VarDescription>
+<Ranges>
+<RangeCount> 2 </RangeCount>
+<Range>
+<ValDescription> No </ValDescription>
+<Value> 0 </Value>
+<Selected> true </Selected>
+</Range>
+<Range>
+<ValDescription> Yes </ValDescription>
+<Value> 1 </Value>
+<Selected> true </Selected>
+</Range>
+</Ranges>
+</Variable>
+<Variable>
+<VarId>3383f03080da0145c3a2b4482c622b18</VarId>
+<Idnum> 552188 </Idnum>
+<Type> 1 </Type>
+<VarMnemonic> SEX </VarMnemonic>
+<VarDescription> Sex </VarDescription>
+<Ranges>
+<RangeCount> 2 </RangeCount>
+<Range>
+<ValDescription> Male </ValDescription>
+<Value> 1 </Value>
+<Selected> true </Selected>
+</Range>
+<Range>
+<ValDescription> Female </ValDescription>
+<Value> 2 </Value>
+<Selected> true </Selected>
+</Range>
+</Ranges>
+</Variable>
+<Variable>
+<VarId>62eaea420191e66442fbf42fb43f171f</VarId>
+<Idnum> 552189 </Idnum>
+<Type> 1 </Type>
+<VarMnemonic> SFN </VarMnemonic>
+<VarDescription> Subfamily Number </VarDescription>
+<Ranges>
+<RangeCount> 5 </RangeCount>
+<Range>
+<ValDescription> Not in universe - missing </ValDescription>
+<Value> 0 </Value>
+<Selected> true </Selected>
+</Range>
+<Range>
+<ValDescription> In subfamily #1 </ValDescription>
+<Value> 1 </Value>
+<Selected> true </Selected>
+</Range>
+<Range>
+<ValDescription> In subfamily #2 </ValDescription>
+<Value> 2 </Value>
+<Selected> true </Selected>
+</Range>
+<Range>
+<ValDescription> In subfamily #3 </ValDescription>
+<Value> 3 </Value>
+<Selected> true </Selected>
+</Range>
+<Range>
+<ValDescription> In subfamily #4 </ValDescription>
+<Value> 4 </Value>
+<Selected> true </Selected>
+</Range>
+</Ranges>
+</Variable>
+<Variable>
+<VarId>55686a47c852a3ea870a20c3860d83fb</VarId>
+<Idnum> 552190 </Idnum>
+<Type> 1 </Type>
+<VarMnemonic> SFR </VarMnemonic>
+<VarDescription> Subfamily Relationship </VarDescription>
+<Ranges>
+<RangeCount> 7 </RangeCount>
+<Range>
+<ValDescription> Not in universe - missing </ValDescription>
+<Value> 0 </Value>
+<Selected> true </Selected>
+</Range>
+<Range>
+<ValDescription> Husband/wife no children </ValDescription>
+<Value> 1 </Value>
+<Selected> true </Selected>
+</Range>
+<Range>
+<ValDescription> Husband/wife with children </ValDescription>
+<Value> 2 </Value>
+<Selected> true </Selected>
+</Range>
+<Range>
+<ValDescription> Parent in a parent/child subfamily </ValDescription>
+<Value> 3 </Value>
+<Selected> true </Selected>
+</Range>
+<Range>
+<ValDescription> Child in a married-couple subfamily </ValDescription>
+<Value> 4 </Value>
+<Selected> true </Selected>
+</Range>
+<Range>
+<ValDescription> Child in a mother-child subfamily </ValDescription>
+<Value> 5 </Value>
+<Selected> true </Selected>
+</Range>
+<Range>
+<ValDescription> Child in a father-child subfamily </ValDescription>
+<Value> 6 </Value>
+<Selected> true </Selected>
+</Range>
+</Ranges>
+</Variable>
+<Variable>
+<VarId>da27e26314efed8d2bc418735425e744</VarId>
+<Idnum> 567207 </Idnum>
+<Type> 1 </Type>
+<VarMnemonic> DIS </VarMnemonic>
+<VarDescription> Disability recode </VarDescription>
+<Ranges>
+<RangeCount> 2 </RangeCount>
+<Range>
+<ValDescription> With a disability </ValDescription>
+<Value> 1 </Value>
+<Selected> true </Selected>
+</Range>
+<Range>
+<ValDescription> Without a disability </ValDescription>
+<Value> 2 </Value>
+<Selected> true </Selected>
+</Range>
+</Ranges>
+</Variable>
+<Variable>
+<VarId>ff061cfe97a288cf35e455f96b75b13e</VarId>
+<Idnum> 567272 </Idnum>
+<Type> 1 </Type>
+<VarMnemonic> SCH </VarMnemonic>
+<VarDescription> School enrollment </VarDescription>
+<Ranges>
+<RangeCount> 4 </RangeCount>
+<Range>
+<ValDescription> N/A (less than 3 years old) </ValDescription>
+<Value> 0 </Value>
+<Selected> true </Selected>
+</Range>
+<Range>
+<ValDescription> No, has not attended in the last 3 months </ValDescription>
+<Value> 1 </Value>
+<Selected> true </Selected>
+</Range>
+<Range>
+<ValDescription> Yes, public school or public college </ValDescription>
+<Value> 2 </Value>
+<Selected> true </Selected>
+</Range>
+<Range>
+<ValDescription> Yes, private school or college or home school </ValDescription>
+<Value> 3 </Value>
+<Selected> true </Selected>
+</Range>
+</Ranges>
+</Variable>
+<Variable>
+<VarId>c7af524c556dd60aba86a165871edd0</VarId>
+<Idnum> 567273 </Idnum>
+<Type> 1 </Type>
+<VarMnemonic> SCHG </VarMnemonic>
+<VarDescription> Grade level attending </VarDescription>
+<Ranges>
+<RangeCount> 17 </RangeCount>
+<Range>
+<ValDescription> N/A (not attending school) </ValDescription>
+<Value> 0 </Value>
+<Selected> true </Selected>
+</Range>
+<Range>
+<ValDescription> Nursery school/preschool </ValDescription>
+<Value> 01 </Value>
+<Selected> true </Selected>
+</Range>
+<Range>
+<ValDescription> Kindergarten </ValDescription>
+<Value> 02 </Value>
+<Selected> true </Selected>
+</Range>
+<Range>
+<ValDescription> Grade 1 </ValDescription>
+<Value> 03 </Value>
+<Selected> true </Selected>
+</Range>
+<Range>
+<ValDescription> Grade 2 </ValDescription>
+<Value> 04 </Value>
+<Selected> true </Selected>
+</Range>
+<Range>
+<ValDescription> Grade 3 </ValDescription>
+<Value> 05 </Value>
+<Selected> true </Selected>
+</Range>
+<Range>
+<ValDescription> Grade 4 </ValDescription>
+<Value> 06 </Value>
+<Selected> true </Selected>
+</Range>
+<Range>
+<ValDescription> Grade 5 </ValDescription>
+<Value> 07 </Value>
+<Selected> true </Selected>
+</Range>
+<Range>
+<ValDescription> Grade 6 </ValDescription>
+<Value> 08 </Value>
+<Selected> true </Selected>
+</Range>
+<Range>
+<ValDescription> Grade 7 </ValDescription>
+<Value> 09 </Value>
+<Selected> true </Selected>
+</Range>
+<Range>
+<ValDescription> Grade 8 </ValDescription>
+<Value> 10 </Value>
+<Selected> true </Selected>
+</Range>
+<Range>
+<ValDescription> Grade 9 </ValDescription>
+<Value> 11 </Value>
+<Selected> true </Selected>
+</Range>
+<Range>
+<ValDescription> Grade 10 </ValDescription>
+<Value> 12 </Value>
+<Selected> true </Selected>
+</Range>
+<Range>
+<ValDescription> Grade 11 </ValDescription>
+<Value> 13 </Value>
+<Selected> true </Selected>
+</Range>
+<Range>
+<ValDescription> Grade 12 </ValDescription>
+<Value> 14 </Value>
+<Selected> true </Selected>
+</Range>
+<Range>
+<ValDescription> College undergraduate years (freshman to senior) </ValDescription>
+<Value> 15 </Value>
+<Selected> true </Selected>
+</Range>
+<Range>
+<ValDescription> Graduate or professional school beyond a bachelor's degree </ValDescription>
+<Value> 16 </Value>
+<Selected> true </Selected>
+</Range>
+</Ranges>
+</Variable>
+<Variable>
+<VarId>63e8dc4bdc4b32b7d008e58a9ed6b01f</VarId>
+<Idnum> 567274 </Idnum>
+<Type> 1 </Type>
+<VarMnemonic> SCHL </VarMnemonic>
+<VarDescription> Educational attainment </VarDescription>
+<Ranges>
+<RangeCount> 25 </RangeCount>
+<Range>
+<ValDescription> N/A (less than 3 years old) </ValDescription>
+<Value> 0 </Value>
+<Selected> true </Selected>
+</Range>
+<Range>
+<ValDescription> No schooling completed </ValDescription>
+<Value> 01 </Value>
+<Selected> true </Selected>
+</Range>
+<Range>
+<ValDescription> Nursery school, preschool </ValDescription>
+<Value> 02 </Value>
+<Selected> true </Selected>
+</Range>
+<Range>
+<ValDescription> Kindergarten </ValDescription>
+<Value> 03 </Value>
+<Selected> true </Selected>
+</Range>
+<Range>
+<ValDescription> Grade 1 </ValDescription>
+<Value> 04 </Value>
+<Selected> true </Selected>
+</Range>
+<Range>
+<ValDescription> Grade 2 </ValDescription>
+<Value> 05 </Value>
+<Selected> true </Selected>
+</Range>
+<Range>
+<ValDescription> Grade 3 </ValDescription>
+<Value> 06 </Value>
+<Selected> true </Selected>
+</Range>
+<Range>
+<ValDescription> Grade 4 </ValDescription>
+<Value> 07 </Value>
+<Selected> true </Selected>
+</Range>
+<Range>
+<ValDescription> Grade 5 </ValDescription>
+<Value> 08 </Value>
+<Selected> true </Selected>
+</Range>
+<Range>
+<ValDescription> Grade 6 </ValDescription>
+<Value> 09 </Value>
+<Selected> true </Selected>
+</Range>
+<Range>
+<ValDescription> Grade 7 </ValDescription>
+<Value> 10 </Value>
+<Selected> true </Selected>
+</Range>
+<Range>
+<ValDescription> Grade 8 </ValDescription>
+<Value> 11 </Value>
+<Selected> true </Selected>
+</Range>
+<Range>
+<ValDescription> Grade 9 </ValDescription>
+<Value> 12 </Value>
+<Selected> true </Selected>
+</Range>
+<Range>
+<ValDescription> Grade 10 </ValDescription>
+<Value> 13 </Value>
+<Selected> true </Selected>
+</Range>
+<Range>
+<ValDescription> Grade 11 </ValDescription>
+<Value> 14 </Value>
+<Selected> true </Selected>
+</Range>
+<Range>
+<ValDescription> 12th grade - no diploma </ValDescription>
+<Value> 15 </Value>
+<Selected> true </Selected>
+</Range>
+<Range>
+<ValDescription> Regular high school diploma </ValDescription>
+<Value> 16 </Value>
+<Selected> true </Selected>
+</Range>
+<Range>
+<ValDescription> GED or alternative credential </ValDescription>
+<Value> 17 </Value>
+<Selected> true </Selected>
+</Range>
+<Range>
+<ValDescription> Some college, but less than 1 year </ValDescription>
+<Value> 18 </Value>
+<Selected> true </Selected>
+</Range>
+<Range>
+<ValDescription> 1 or more years of college credit, no degree </ValDescription>
+<Value> 19 </Value>
+<Selected> true </Selected>
+</Range>
+<Range>
+<ValDescription> Associate's degree </ValDescription>
+<Value> 20 </Value>
+<Selected> true </Selected>
+</Range>
+<Range>
+<ValDescription> Bachelor's degree </ValDescription>
+<Value> 21 </Value>
+<Selected> true </Selected>
+</Range>
+<Range>
+<ValDescription> Master's degree </ValDescription>
+<Value> 22 </Value>
+<Selected> true </Selected>
+</Range>
+<Range>
+<ValDescription> Professional degree beyond a bachelor's degree </ValDescription>
+<Value> 23 </Value>
+<Selected> true </Selected>
+</Range>
+<Range>
+<ValDescription> Doctorate degree </ValDescription>
+<Value> 24 </Value>
+<Selected> true </Selected>
+</Range>
+</Ranges>
+</Variable>
+<Variable>
+<VarId>2713d06d3a7d1542c2d981950354e5a1</VarId>
+<Idnum> 567275 </Idnum>
+<Type> 1 </Type>
+<VarMnemonic> SERIALNO </VarMnemonic>
+<VarDescription> Housing unit/GQ person serial number </VarDescription>
+<Ranges>
+<RangeCount> 1 </RangeCount>
+<Range>
+<ValDescription> Unique identifier </ValDescription>
+<OrigMinVal> 0000001 </OrigMinVal>
+<OrigMaxVal> 9999999 </OrigMaxVal>
+<Selected> true </Selected>
+</Range>
+</Ranges>
+</Variable>
+<Variable>
+<VarId>e7997cffec966277878353eff79f1d10</VarId>
+<Idnum> 567287 </Idnum>
+<Type> 1 </Type>
+<VarMnemonic> WKW </VarMnemonic>
+<VarDescription> Weeks worked during past 12 months </VarDescription>
+<Ranges>
+<RangeCount> 7 </RangeCount>
+<Range>
+<ValDescription> N/A (less than 16 years old/did not work during the past 12 months) </ValDescription>
+<Value> 0 </Value>
+<Selected> true </Selected>
+</Range>
+<Range>
+<ValDescription> 50 to 52 weeks worked during past 12 months </ValDescription>
+<Value> 1 </Value>
+<Selected> true </Selected>
+</Range>
+<Range>
+<ValDescription> 48 to 49 weeks worked during past 12 months </ValDescription>
+<Value> 2 </Value>
+<Selected> true </Selected>
+</Range>
+<Range>
+<ValDescription> 40 to 47 weeks worked during past 12 months </ValDescription>
+<Value> 3 </Value>
+<Selected> true </Selected>
+</Range>
+<Range>
+<ValDescription> 27 to 39 weeks worked during past 12 months </ValDescription>
+<Value> 4 </Value>
+<Selected> true </Selected>
+</Range>
+<Range>
+<ValDescription> 14 to 26 weeks worked during past 12 months </ValDescription>
+<Value> 5 </Value>
+<Selected> true </Selected>
+</Range>
+<Range>
+<ValDescription> less than 14 weeks worked during past 12 months </ValDescription>
+<Value> 6 </Value>
+<Selected> true </Selected>
+</Range>
+</Ranges>
+</Variable>
+<Variable>
+<VarId>ebe44e9fa947e1f3c46841dec05c6600</VarId>
+<Idnum> 706208 </Idnum>
+<Type> 1 </Type>
+<VarMnemonic> RELP </VarMnemonic>
+<VarDescription> Relationship </VarDescription>
+<Ranges>
+<RangeCount> 18 </RangeCount>
+<Range>
+<ValDescription> Reference person </ValDescription>
+<Value> 00 </Value>
+<Selected> true </Selected>
+</Range>
+<Range>
+<ValDescription> Husband/wife </ValDescription>
+<Value> 01 </Value>
+<Selected> true </Selected>
+</Range>
+<Range>
+<ValDescription> Biological son or daughter </ValDescription>
+<Value> 02 </Value>
+<Selected> true </Selected>
+</Range>
+<Range>
+<ValDescription> Adopted son or daughter </ValDescription>
+<Value> 03 </Value>
+<Selected> true </Selected>
+</Range>
+<Range>
+<ValDescription> Stepson or stepdaughter </ValDescription>
+<Value> 04 </Value>
+<Selected> true </Selected>
+</Range>
+<Range>
+<ValDescription> Brother or sister </ValDescription>
+<Value> 05 </Value>
+<Selected> true </Selected>
+</Range>
+<Range>
+<ValDescription> Father or mother </ValDescription>
+<Value> 06 </Value>
+<Selected> true </Selected>
+</Range>
+<Range>
+<ValDescription> Grandchild </ValDescription>
+<Value> 07 </Value>
+<Selected> true </Selected>
+</Range>
+<Range>
+<ValDescription> Parent-in-law </ValDescription>
+<Value> 08 </Value>
+<Selected> true </Selected>
+</Range>
+<Range>
+<ValDescription> Son-in-law or daughter-in-law </ValDescription>
+<Value> 09 </Value>
+<Selected> true </Selected>
+</Range>
+<Range>
+<ValDescription> Other relative </ValDescription>
+<Value> 10 </Value>
+<Selected> true </Selected>
+</Range>
+<Range>
+<ValDescription> Roomer or boarder </ValDescription>
+<Value> 11 </Value>
+<Selected> true </Selected>
+</Range>
+<Range>
+<ValDescription> Housemate or roommate </ValDescription>
+<Value> 12 </Value>
+<Selected> true </Selected>
+</Range>
+<Range>
+<ValDescription> Unmarried partner </ValDescription>
+<Value> 13 </Value>
+<Selected> true </Selected>
+</Range>
+<Range>
+<ValDescription> Foster child </ValDescription>
+<Value> 14 </Value>
+<Selected> true </Selected>
+</Range>
+<Range>
+<ValDescription> Other nonrelative </ValDescription>
+<Value> 15 </Value>
+<Selected> true </Selected>
+</Range>
+<Range>
+<ValDescription> Institutionalized group quarters population </ValDescription>
+<Value> 16 </Value>
+<Selected> true </Selected>
+</Range>
+<Range>
+<ValDescription> Noninstitutionalized group quarters population </ValDescription>
+<Value> 17 </Value>
+<Selected> true </Selected>
+</Range>
+</Ranges>
+</Variable>
+<Variable>
+<VarId>991c3101db3ec6e90b783218096c90f5</VarId>
+<Idnum> 927554 </Idnum>
+<Type> 1 </Type>
+<VarMnemonic> MIL </VarMnemonic>
+<VarDescription> Military service </VarDescription>
+<Ranges>
+<RangeCount> 5 </RangeCount>
+<Range>
+<ValDescription> N/A (less than 17 years old) </ValDescription>
+<Value> 0 </Value>
+<Selected> true </Selected>
+</Range>
+<Range>
+<ValDescription> Now on active duty </ValDescription>
+<Value> 1 </Value>
+<Selected> true </Selected>
+</Range>
+<Range>
+<ValDescription> On active duty in the past, but not now </ValDescription>
+<Value> 2 </Value>
+<Selected> true </Selected>
+</Range>
+<Range>
+<ValDescription> Only on active duty for training in Reserves/National Guard </ValDescription>
+<Value> 3 </Value>
+<Selected> true </Selected>
+</Range>
+<Range>
+<ValDescription> Never served in the military </ValDescription>
+<Value> 4 </Value>
+<Selected> true </Selected>
+</Range>
+</Ranges>
+</Variable>
+<Variable>
+<VarId>f15fa96e8a2d71dc73cba3ed2c725083</VarId>
+<Idnum> 927557 </Idnum>
+<Type> 1 </Type>
+<VarMnemonic> PINCP </VarMnemonic>
+<VarDescription> Total person's income (signed) </VarDescription>
+<Ranges>
+<RangeCount> 6 </RangeCount>
+<Range>
+<ValDescription> N/A (less than 15 years old) </ValDescription>
+<Value> -20000 </Value>
+<Selected> true </Selected>
+</Range>
+<Range>
+<ValDescription> Loss of $19999 or more (Rounded & bottom-coded components) </ValDescription>
+<Value> -019999 </Value>
+<Selected> true </Selected>
+</Range>
+<Range>
+<ValDescription> Loss $1 to $19998 (Rounded components) </ValDescription>
+<OrigMinVal> -019998 </OrigMinVal>
+<OrigMaxVal> -000001 </OrigMaxVal>
+<Selected> true </Selected>
+</Range>
+<Range>
+<ValDescription> None </ValDescription>
+<Value> 0000000 </Value>
+<Selected> true </Selected>
+</Range>
+<Range>
+<ValDescription> $1 or break even </ValDescription>
+<Value> 0000001 </Value>
+<Selected> true </Selected>
+</Range>
+<Range>
+<ValDescription> $2 to $9999999 (Rounded & top-coded components) </ValDescription>
+<OrigMinVal> 0000002 </OrigMinVal>
+<OrigMaxVal> 9999999 </OrigMaxVal>
+<Selected> true </Selected>
+</Range>
+</Ranges>
+</Variable>
+</DataBasket>
+<TreeInfo>
+<NumNodes> 1 </NumNodes>
+<TreeNode>
+<Survey> 16 </Survey>
+<Subsrv> 0 </Subsrv>
+<Component> 1159 </Component>
+<Instance> 2015 </Instance>
+<Longitudinal> false </Longitudinal>
+<VirtualIndicator> 0 </VirtualIndicator>
+<NodeDescription> ACS//Public Use Microdata Sample/2015 </NodeDescription>
+</TreeNode>
+</TreeInfo>
+</Session>
